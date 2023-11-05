@@ -1,5 +1,8 @@
 # Object Oriented Javascript 
 
+# NOTE
+`Need to view in local server.`
+
 ## Student Instructions
 
 ### Big Picture
